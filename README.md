@@ -4,3 +4,5 @@ Instagram Clone with Bootstrap
 ***
 
 ![](https://github.com/zeynepakkaya-1/Instagram-Clone-Bootstrap/blob/main/1.png)
+
+![](gif.gif)
